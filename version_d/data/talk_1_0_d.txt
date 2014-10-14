@@ -1,0 +1,479 @@
+0001:Your attention, please.:5,6,8,9,28,35,36,55,86,87,88,99,108,147,169,186,195,205,224,257,279,304,313,320,332,353,364,378,442,447,451,454,330:1.774
+0002:your:3:0.602
+0003:attention:4:0.860
+0004:please:5,6,8,9,28,35,36,55,86,87,88,99,108,147,169,186,195,205,224,257,279,304,313,320,332,353,364,378,442,447,451,454,330:0.654
+0005:Is a:22,24,26,430,432,434,438,455:0.647
+0006:is:7:0.615
+0007:a:22,24,26,430,432,434,438,455:0.476
+0008:And on the first day:19:1.491
+0009:and on the:10,12,13,14,15,16,17,18:1.004
+0010:first:11:0.714
+0011:day:19:0.559
+0012:second:11:0.932
+0013:third:11:0.766
+0014:fourth:11:0.784
+0015:fifth:11:0.948
+0016:sixth:11:1.051
+0017:seventh:11:0.985
+0018:eighth:11:0.615
+0019:nothing much happened:5,6,8,9,28,35,36,55,86,87,88,99,108,147,169,186,195,205,224,257,279,304,313,320,332,353,364,378,442,447,451,454,330:1.813
+0020:God:23,25,27,431,433,435,439,456:0.558
+0021:ocean:23,25,27,431,433,435,439,456:0.712
+0022:good:20,21:0.522
+0023:good?:5,6,8,9,28,35,36,55,86,87,88,99,108,147,169,186,195,205,224,257,279,304,313,320,332,353,364,378,442,447,451,454,330:0.624
+0024:green:20,21:0.665
+0025:green?:5,6,8,9,28,35,36,55,86,87,88,99,108,147,169,186,195,205,224,257,279,304,313,320,332,353,364,378,442,447,451,454,330:0.800
+0026:blue:20,21:0.600
+0027:blue?:5,6,8,9,28,35,36,55,86,87,88,99,108,147,169,186,195,205,224,257,279,304,313,320,332,353,364,378,442,447,451,454,330:0.724
+0028:They rolled their eyes back and rolled their heads back and rolled their arms and legs and wings and fingers back and fell:33,34:9.941
+0029:onto:30:0.800
+0030:forest:31:0.888
+0031:floor:32:0.700
+0032:upside with their arms and legs in the air:35:4.073
+0033:softly:29:1.034
+0034:swiftly:29:1.200
+0035:They laid there for a few minutes, all of them together.:36:4.433
+0036:The sun:37:0.900
+0037:shocked at the site:38,39:1.463
+0038:hid behind a cloud:40:1.900
+0039:hid behind the moon:40:1.800
+0040:and in the middle of the:41,42:1.773
+0041:day:43:0.564
+0042:night:43:0.640
+0043:the:44,45:0.615
+0044:brightest:46,47:0.835
+0045:darkest:46,47:0.856
+0046:day:48:0.500
+0047:night:48:0.765
+0048:of the year:49:0.983
+0049:the earth grew:50,51:1.276
+0050:dark:52:0.539
+0051:bright:0.621
+0052:It was called an eclipse:53:2.027
+0053:a solar eclipse:54:1.485
+0054:a total eclipse of the sun:55:2.115
+0055:And it began to grow:56,57:1.735
+0056:hot:60:0.606
+0057:cold:60:0.634
+0058:hairs perked up:61:1.300
+0059:began to stand on end:66:2.500
+0060:And all of their:58,62,63,64:1.442
+0061:and:59:0.575
+0062:feathers:61,65,59:0.859
+0063:warts:61,65,59:0.864
+0064:tails:61,65,59:0.753
+0065:began to perk up:66:1.854
+0066:And together all their:67:1.762
+0067:little:68,69:0.760
+0068:mouths:70,100,106:0.738
+0069:beaks:70:0.729
+0070:opened up:155:0.860
+0071:their tongues:72:1.037
+0072:they fell right out:73:1.700
+0073:all these broken:74:1.704
+0074:fallen-out:75:1.040
+0075:tongues:76,99:0.719
+0076:began to shine:77:1.328
+0077:they glowed the brightest:78:1.671
+0078:white:79:0.580
+0079:you have ever seen:80:1.730
+0080:Far below:147:1.300
+0081:animals were:82:1.113
+0082:watching:83,86,87,88:0.859
+0083:looking up:84,86,87,88:1.019
+0084:at:147:0.544
+0085:hive:86:0.761
+0086:And on the branches of the trees the birds were:82,83:3.225
+0087:and in the little streams and puddles the frogs and tadpoles were:82,83:4.190
+0088:And when the hive popped it echoed for:89:3.284
+0089:miles and:89,90:1.357
+0090:miles:91:00.800
+0091:And all of the:92,94,95,96,97,104:1.336
+0092:animals:93,98,105:0.796
+0093:and the:92,94,95,96,97,104:0.797
+0094:birds:93,98,105:0.644
+0095:fish:93,98,105:0.582
+0096:frogs:93,98,105:0.900
+0097:tadpoles:93,98,105:0.807
+0098:they stuck out their:75:1.614
+0099:And into each of their:68:1.800
+0100:fell a:101:0.727
+0101:sleeping:102:1.001
+0102:dreaming:103:0.785
+0103:bee:91,107:0.540
+0104:creatures:105:0.900
+0105:shut their:68:1.042
+0106:and swallowed their:103:1.476
+0107:whole:108,1,2:0.614
+0108:It would be:109:0.928
+0109:like:110:0.722
+0110:a:111,112:0.527
+0111:bear:113,114:0.400
+0112:bird:113,114:0.537
+0113:a big:111,112:0.779
+0114:Or maybe:115,116,117:0.800
+0115:two:118,119:0.531
+0116:three:118,119:0.819
+0117:four:118,119:0.751
+0118:bears:120:0.679
+0119:birds:120:0.639
+0120:Big ones.:121:0.788
+0121:And maybe one of them’s a small one.:122:2.881
+0122:And she stood up:123:1.600
+0123:She was a giant:124:1.600
+0124:and her:125,126:0.858
+0125:arms:127:0.843
+0126:wings:127:0.813
+0127:reached all the way to the tip top of the:128,129:4.666
+0128:tree:130:0.619
+0129:cave:130:0.651
+0130:She grabbed the hive in her big:131,132:2.430
+0131:brown-black:133,134:1.229
+0132:red-brown:133,134:1.176
+0133:claws:135:0.780
+0134:paws:135:0.724
+0135:and she flicked out a long, black:136:3.337
+0136:claw:137,138:0.647
+0137:a long, black, sharp:136:2.739
+0138:And she filed it with a rock until she:139:3.396
+0139:bled:140,144:0.580
+0140:It was a claw like a:141:1.778
+0141:knife:142:0.637
+0142:and with it:143:0.928
+0143:she:139,144:0.657
+0144:sliced the:145:1.327
+0145:branch:146:0.659
+0146:right off:147:1.054
+0147:The:148:0.523
+0148:bees:149:0.604
+0149:would have been:150:1.179
+0150:frightened:151:0.956
+0151:but the scent of:152:1.600
+0152:burning:153,185:0.868
+0153:peppermint:154:0.780
+0154:smoke:155:0.962
+0155:and:156,71:0.605
+0156:lavender:157:1.126
+0157:and:158:0.662
+0158:moss:159:0.751
+0159:put them into the deepest:160,161:2.314
+0160:soundest:161:1.600
+0161:sleep:162,163:0.900
+0162:Their arms:163,167:1.100
+0163:Their:164,165,377:0.750
+0164:little:165:0.800
+0165:fuzzy:166:0.673
+0166:arms:167:0.771
+0167:wrapped around each other:168:2.162
+0168:hugging each other:169:1.082
+0169:They were so:170:1.304
+0170:warm:171:0.700
+0171:and blissful:172:1.075
+0172:for the:173,174,175,177:0.848
+0173:winter:176,5,6,186,442,447,451,454:0.768
+0174:summer:176,5,6,186,442,447,451,454:0.749
+0175:spring:176,5,6,186,442,447,451,454:0.916
+0176:Until there was:178,179:1.454
+0177:fall:176,5,6,186,442,447,451,454:0.700
+0178:a:181:0.415
+0179:an:180,183:0.588
+0180:earthquake:184:0.830
+0181:flood:184:0.800
+0182:fire:184:0.673
+0183:eclipse:184:0.856
+0184:in the:185:0.676
+0185:forest:186:0.842
+0186:They murmured in their sleep:187:2.380
+0187:Hundreds of:188,189:1.292
+0188:thousands:190:1.024
+0189:millions:190:1.000
+0190:bee:191:1.959
+0191:dreams:192:0.764
+0192:all caught up in:193:1.317
+0193:the:194:0.575
+0194:hive:195:0.747
+0195:The dreams drifted:196:1.720
+0196:up:197:0.470
+0197:toward the sky:198:1.200
+0198:as bee dreams:199:1.455
+0199:do:200:0.380
+0200:drift:201:0.619
+0201:upwards:202:0.856
+0202:toward:203:0.590
+0203:the:204:0.572
+0204:sky:205:0.959
+0205:and as the:206,209,210:1.187
+0206:workers:207,211:0.951
+0207:dozed:208,213,212:0.761
+0208:and the:206,209,210:0.775
+0209:drones:207,211:1.002
+0210:queen:207,211:0.627
+0211:twitched:212,213:0.741
+0212:and:207,211:0.618
+0213:the:214,215,216,217:0.630
+0214:old:218:0.650
+0215:tiny:218:0.723
+0216:giant:218:0.814
+0217:heavy:218:0.629
+0218:hive:219:0.664
+0219:began to grow:220,221,222,223:1.426
+0220:light:224:0.829
+0221:lighter:224:0.768
+0222:heavy:224
+0223:heavier:224
+0224:A soft:225,226,227
+0225:breeze:228
+0226:wind:228
+0227:rain:228
+0228:blew through the:229
+0229:forest:230
+0230:and the hive began to:231
+0231:just:232
+0232:drift:233,234
+0233:away:234
+0234:upwards:235
+0235:drifting:236
+0236:slowly:237
+0237:It:238,239
+0238:floated:240
+0239:drifted:240
+0240:slowly:241
+0241:at first:242
+0242:but as the hive got:243
+0243:higher:244,246
+0244:and higher:245,246
+0245:and:243
+0246:and the atmosphere got:247
+0247:thinner:248,250
+0248:and thinner:249,250
+0249:and:247
+0250:the bee’s home began to pick up speed:251
+0251:began to:252,277
+0252:speed:253
+0253:drifting:254,255
+0254:faster and:255
+0255:faster:256,257
+0256:and:255
+0257:The sun was:258,259
+0258:rising:260
+0259:setting:260
+0260:and the bees kept:261
+0261:sleeping:262
+0262:and:263
+0263:dreaming:264
+0264:and the:265
+0265:hive:266
+0266:was getting:267,268
+0267:fuller and:268
+0268:fuller:269,270
+0269:and:268
+0270:More and more:271
+0271:dreams:272
+0272:in that:274,273
+0273:tiny:275
+0274:tiny, tiny:275
+0275:space:276
+0276:and the hive:251
+0277:swell:278
+0278:The dreams pushed against the walls:279
+0279:And as the:280
+0280:sun:281,282
+0281:rose:285
+0282:set:285
+0283:moon:284
+0284:got:291
+0285:the:283,286
+0286:sun’s:287
+0287:rays:288
+0288:began to:289,290
+0289:strike:291
+0290:shine:291
+0291:the hive:292
+0292:on all sides:294,293
+0293:A glorious:295
+0294:A terrifying:295
+0295:for the sun was:296,297,298
+0296:happy:299
+0297:lonely:299
+0298:gloomy:299
+0299:And the hive got:300,301,302,303
+0300:warmer:304
+0301:heavier:304
+0302:softer:304
+0303:stickier:304
+0304:And the dreams kept coming:305
+0305:And the walls kept:306
+0306:swelling:307
+0307:melting:308,313
+0308:And the wax:309
+0309:the beeswax:310
+0310:the little cells:311
+0311:of:312
+0312:wax:316
+0313:And as the wax:314
+0314:melted:315
+0315:it:316
+0316:leaked:317
+0317:from the:318
+0318:bottom:319
+0319:of the hive:320
+0320:And the bees kept dreaming:321,322
+0321:and the hive kept swelling:322,323,320
+0322:and the walls kept melting:321,323,320
+0323:until:324
+0324:all of sudden:325
+0325:the:326
+0326:hive:327
+0327:just:328
+0328:popped!:329
+0329:as it rose:330
+0330:The moon:331
+0331:blinked:5,442,447,451,454,353,332
+0332:And from up above:333
+0333:it began to:334,335,336,337
+0334:rain:340
+0335:shine:340
+0336:glow:340
+0337:tremble:340
+0338:bells:1,2
+0339:But it didn’t:334,335,336,337,343,343,343
+0340:droplets:341
+0341:of:342
+0342:water:339,343
+0343:no!:345
+0344:bees!:348
+0345:little:346
+0346:sleeping:347
+0347:dreaming:344
+0348:falling:349
+0349:drifting:350
+0350:down:351,352
+0351:mouths:479
+0352:tongues:479
+0353:Bees sting:354
+0354:of course:355
+0355:They don’t have:356,357
+0356:tails:358
+0357:bottoms:358,364
+0358:they have:359
+0359:sharp:360
+0360:stingers:361,366,383
+0361:little sharp stingers:362
+0362:sticking out of:262
+0363:their:357
+0364:And as all the creatures swallowed:365
+0365:the:360
+0366:stung:367
+0367:Little:368
+0368:pricks:369
+0369:all along the:370
+0370:esophagus:371
+0371:and:372
+0372:cheeks:373
+0373:and:374
+0374:inside the mouth:375
+0375:and all the way down:376
+0376:into:163
+0377:bellies:378
+0378:The:379
+0379:stung:380
+0380:as:381
+0381:stings:382,383
+0382:and:360
+0383:do:384
+0384:But the creatures didn’t mind:385
+0385:they had never:386,387,388
+0386:been:389
+0387:had:389
+0388:felt:389
+0389:this feeling before:391
+0390:before:1,2
+0391:upside down:392
+0392:with their:393
+0393:arms:394
+0394:and:395,396,397,398
+0395:legs:394,399
+0396:wings:394,399
+0397:tails:394,399
+0398:claws:394,399
+0399:in the air:400
+0400:And down on the:401
+0401:forest floor:402
+0402:laid there in the:403,405
+0403:dark:407,408
+0404:sun:406
+0405:bright:404
+0406:burning:407
+0407:all splayed on their backs like that:408,409
+0408:all on their tummies like that:407,409
+0409:And with the sun gone:410,411,412,413
+0410:green:422
+0411:black:422
+0412:orange:422
+0413:gray:422
+0414:and stand on end too!:1,2
+0415:Have you ever seen a?:1,2
+0416:And how!:1,2
+0417:evil:1,2
+0418:black:1,2
+0419:always:421
+0420:forever:421
+0421:hungry:423
+0422:they were:419,419,420
+0423:crossed their:424,425
+0424:hearts:426
+0425:fingers:426
+0426:stuck their fingers into the way-back of their:427
+0427:little:428
+0428:throats:429,442,447,451,454,5,6,52
+0429:a sea of:410,411,412,413
+0430:gone:20,21
+0431:gone?:429,442,447,451,454,5,6,52,1,2
+0432:gun:20,21
+0433:gun?:429,442,447,451,454,5,6,52,1,2
+0434:dead:20,21
+0435:dead?:429,442,447,451,454,5,6,52,1,2
+0436:breeze:1,2
+0437:breeze?:1,2
+0438:easy:20,21
+0439:easy?:429,442,447,451,454,5,6,52,1,2
+0440:life:1,2
+0441:death:1,2
+0442:Have you kissed your:443,445,446
+0443:kids:444
+0444:today?:447,451,454,455,456,467,442
+0445:friends:444
+0446:lovers:444
+0447:Have you washed your:448,449,450
+0448:ears:444
+0449:toes:444
+0450:feet:444
+0451:Have you mailed your:452,453,462,463,464,465,466
+0452:bills:444
+0453:pills:444
+0454:Have you eaten your:453,457,458,459,460,461
+0455:okay:20,21
+0456:okay?:429,442,447,451,454,5,6,52,1,2
+0457:mills:1,2
+0458:spills:1,2
+0459:hills:1,2
+0460:drills:1,2
+0461:wills:1,2
+0462:knees:1,2
+0463:sneeze:1,2
+0464:please:1,2
+0465:bees:1,2
+0466:fleas:1,2
+0467:bed bugs:1,2
+0468:ROAR:1,2
+0469:GROWL:1,2
+0470:HUNGER:1,2
+0471:THUNDER:1,2
+0472:EVERY:473
+0473:SINGLE:474
+0474:DAY:1,2
+0475:thick:1,2
+0476:ate:1,2
+0477:feast:1,2
+0478:together:1,2
+0479:little animals:353
